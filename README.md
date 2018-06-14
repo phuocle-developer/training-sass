@@ -1,2 +1,3 @@
-# training-sass
-This is repository contain code that learn CSS advanced on Udemy online
+# Training SASS
+
+-  This is project that I learned from CSS Advanced course on Udemy online by [Jonas Schmedtmann](https://twitter.com/jonasschmedtman)
