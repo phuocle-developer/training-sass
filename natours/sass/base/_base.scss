@@ -1,1 +1,16 @@
-// This base file contain the reset file
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    // The define what 1 rem is
+    font-size: 62.5%;
+}
+
+body {
+    box-sizing: border-box;
+}
